@@ -3,6 +3,8 @@
 ###### DO YOU HAVE ANY REPOSITORY IN YOUR HAND
 # IMAGE
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-``` javascript
-var myVar = "WELCOME TO MY WORLD!";
+``` 
+WELCOME TO MY WORLD
 ```
+- [ ] Do you Want to open GitHub?
+- [ ] Introduce yourself 
